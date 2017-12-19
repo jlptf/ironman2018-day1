@@ -29,7 +29,7 @@ $ 這個後面的是指令，請記得不要連 '$' 都打進去了
 
 > 概念篇：適合什麼都不知道的你
 
- * `Day 1`：[Container Orchestration]()
+ * `Day 1`：[Container Orchestration](https://ithelp.ithome.com.tw/articles/10192193)
  
 > 基礎篇：適合知道容器與略懂 k8s 是什麼的你
  
@@ -95,11 +95,11 @@ $ 這個後面的是指令，請記得不要連 '$' 都打進去了
 > * 硬體 (Vertical Scale)
 > * 應用程式 (Horizontal Scale)
 >
->透過雲端平台，硬體 (host, cpu, memory, disk, ...) 的擴展可隨著需求隨時增加或減少。
+> `Vertical Scale`： 透過雲端平台，硬體 (host, cpu, memory, disk, ...) 的擴展可隨著需求隨時增加或減少。
 >
->而應用程式的可擴展則需要透過類似 Container Orchestration 這類的工具來達成。
+> `Horizontal Scale`：而應用程式的可擴展則需要透過類似 Container Orchestration 這類的工具來達成。另外，此類型的擴展有時候也需要增加更多硬體。
 >
->手動擴展應用程式也是可行，但相對複雜度就會提高*
+> *手動擴展應用程式也是可行，但相對複雜度就會提高*
 
 Container Orchestrator 便是幫助我們能達到上述目標的工具，常見的 Container Orchestrator 如下
 
@@ -128,7 +128,7 @@ Container Orchestrator 便是幫助我們能達到上述目標的工具，常見
 * 確保資源有效利用
 * 確保容器運行狀態 (Healthy check)
 * 確保容器內存取的安全性
-* 不需要直接存取容器，而是封裝成更高階的服務，例如 k8s 中的：Service, Ingress 等等
+* 不需要直接存取容器，而是封裝成更高階的服務 (即虛擬化)，例如 k8s 中的：Service, Ingress 等等
 
 了解什麼是 Container Orchestrator 以及好處後，我們就可以正式進入 k8s 的世界，未來的 30 天，不！，只剩下寶貴的 29 天，就讓我們一起好好欣賞 k8s 。
 
