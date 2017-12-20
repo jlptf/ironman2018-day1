@@ -30,6 +30,7 @@ $ 這個後面的是指令，請記得不要連 '$' 都打進去了
 > 概念篇：適合什麼都不知道的你
 
  * `Day 1`：[Container Orchestration](https://ithelp.ithome.com.tw/articles/10192193)
+ * `Day 2`：[k8s 架構](https://ithelp.ithome.com.tw/articles/10192409)
  
 > 基礎篇：適合知道容器與略懂 k8s 是什麼的你
  
