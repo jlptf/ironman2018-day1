@@ -31,8 +31,12 @@ $ 這個後面的是指令，請記得不要連 '$' 都打進去了
 
  * `Day 1`：[Container Orchestration](https://ithelp.ithome.com.tw/articles/10192193)
  * `Day 2`：[k8s 架構](https://ithelp.ithome.com.tw/articles/10192409)
+ * `Day 3`：[k8s 安裝須知](https://ithelp.ithome.com.tw/articles/10192448)
  
 > 基礎篇：適合知道容器與略懂 k8s 是什麼的你
+ * `Day 4`：[安裝 k8s](https://ithelp.ithome.com.tw/articles/10192748)
+ * `Day 5`：[運行 minikube](https://ithelp.ithome.com.tw/articles/10193237)
+
  
 > 常見問題與建議：適合已經有 k8s 概念的你
  
