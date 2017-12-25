@@ -37,6 +37,7 @@ $ 這個後面的是指令，請記得不要連 '$' 都打進去了
  * `Day 4`：[安裝 k8s](https://ithelp.ithome.com.tw/articles/10192748)
  * `Day 5`：[運行 minikube](https://ithelp.ithome.com.tw/articles/10193237)
  * `Day 6`：[與 k8s 溝通: APIs](https://ithelp.ithome.com.tw/articles/10193489)
+ * `Day 7`：[與 k8s 溝通: Dashboard](https://ithelp.ithome.com.tw/articles/10193497)
  
 > 常見問題與建議：適合已經有 k8s 概念的你
  
