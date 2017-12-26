@@ -27,21 +27,22 @@ $ 這個後面的是指令，請記得不要連 '$' 都打進去了
 ### 文章連結
 這裡會放置 30 天文章的連結，以方便查閱
 
-> 概念篇：適合什麼都不知道的你
+> 概念篇：一無所知不用怕，從這裡開始認識 k8s 吧！
 
  * `Day 1`：[Container Orchestration](https://ithelp.ithome.com.tw/articles/10192193)
  * `Day 2`：[k8s 架構](https://ithelp.ithome.com.tw/articles/10192409)
  * `Day 3`：[k8s 安裝須知](https://ithelp.ithome.com.tw/articles/10192448)
  
-> 基礎篇：適合知道容器與略懂 k8s 是什麼的你
+> 基礎篇：台上十分鐘台下十年功，一起打好基礎吧！
  * `Day 4`：[安裝 k8s](https://ithelp.ithome.com.tw/articles/10192748)
  * `Day 5`：[運行 minikube](https://ithelp.ithome.com.tw/articles/10193237)
  * `Day 6`：[與 k8s 溝通: APIs](https://ithelp.ithome.com.tw/articles/10193489)
  * `Day 7`：[與 k8s 溝通: Dashboard](https://ithelp.ithome.com.tw/articles/10193497)
+ * `Day 8`：[與 k8s 溝通: kubectl](https://ithelp.ithome.com.tw/articles/10193502)
  
-> 常見問題與建議：適合已經有 k8s 概念的你
+> 常見問題與建議：使用 k8s 常撞牆嗎？來看看這裡的建議吧！
  
-> 應用篇：適合正要往實務應用的你
+> 應用篇：江湖在走，k8s 要有
 
 
 時間寶貴，就讓我們開始好好欣賞一下 k8s 吧！
