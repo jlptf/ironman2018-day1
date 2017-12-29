@@ -41,7 +41,9 @@ $ 這個後面的是指令，請記得不要連 '$' 都打進去了
  * `Day 8`：[與 k8s 溝通: kubectl](https://ithelp.ithome.com.tw/articles/10193502)
  * `Day 9`：[yaml](https://ithelp.ithome.com.tw/articles/10193509)
  * `Day 10`：[建構組件](https://ithelp.ithome.com.tw/articles/10193513)
- 
+ * `Day 11`：[Service (1)](https://ithelp.ithome.com.tw/articles/10193520)
+
+
 > 常見問題與建議：使用 k8s 常撞牆嗎？來看看這裡的建議吧！
  
 > 應用篇：江湖在走，k8s 要有
