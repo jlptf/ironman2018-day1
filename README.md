@@ -42,6 +42,7 @@ $ 這個後面的是指令，請記得不要連 '$' 都打進去了
  * `Day 9`：[yaml](https://ithelp.ithome.com.tw/articles/10193509)
  * `Day 10`：[建構組件](https://ithelp.ithome.com.tw/articles/10193513)
  * `Day 11`：[Service (1)](https://ithelp.ithome.com.tw/articles/10193520)
+ * `Day 12`：[Service (2)](https://ithelp.ithome.com.tw/articles/10193527)
 
 
 > 常見問題與建議：使用 k8s 常撞牆嗎？來看看這裡的建議吧！
