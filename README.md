@@ -44,6 +44,7 @@ $ 這個後面的是指令，請記得不要連 '$' 都打進去了
  * `Day 11`：[Service (1)](https://ithelp.ithome.com.tw/articles/10193520)
  * `Day 12`：[Service (2)](https://ithelp.ithome.com.tw/articles/10193527)
  * `Day 13`：[Ingress](https://ithelp.ithome.com.tw/articles/10193528)
+ * `Day 14`：[Volume (1)](https://ithelp.ithome.com.tw/articles/10193546)
 
 
 > 常見問題與建議：使用 k8s 常撞牆嗎？來看看這裡的建議吧！
