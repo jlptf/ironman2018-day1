@@ -51,8 +51,10 @@ $ 這個後面的是指令，請記得不要連 '$' 都打進去了
  * `Day 18`：[Rolling](https://ithelp.ithome.com.tw/articles/10195639)
  * `Day 19`：[RBAC]（https://ithelp.ithome.com.tw/articles/10195944)
 
-
 > 常見問題與建議：使用 k8s 常撞牆嗎？來看看這裡的建議吧！
+
+ * `Day 20`：[常見問題與建議 (1)](https://ithelp.ithome.com.tw/articles/10193944)
+
  
 > 應用篇：江湖在走，k8s 要有
 
