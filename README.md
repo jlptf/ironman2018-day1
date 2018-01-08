@@ -54,6 +54,7 @@ $ 這個後面的是指令，請記得不要連 '$' 都打進去了
 > 常見問題與建議：使用 k8s 常撞牆嗎？來看看這裡的建議吧！
 
  * `Day 20`：[常見問題與建議 (1)](https://ithelp.ithome.com.tw/articles/10193944)
+ * `Day 21`：[常見問題與建議 (2)](https://ithelp.ithome.com.tw/articles/10193946)
 
  
 > 應用篇：江湖在走，k8s 要有
