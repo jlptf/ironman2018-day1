@@ -64,6 +64,7 @@ $ 這個後面的是指令，請記得不要連 '$' 都打進去了
  * `Day 25`：[保護你的系統：套用 SSL](https://ithelp.ithome.com.tw/articles/10193959)
  * `Day 26`：[部署多階層應用：簡易通訊錄 SAB](https://ithelp.ithome.com.tw/articles/10195946)
  * `Day 27`：[漫步在雲端：在 GCP 中建立 k8s 叢集](https://ithelp.ithome.com.tw/articles/10193961)
+ * `Day 28`：[邁向 DevOps 之路 (1)](https://ithelp.ithome.com.tw/articles/10196285)
 
 
 時間寶貴，就讓我們開始好好欣賞一下 k8s 吧！
