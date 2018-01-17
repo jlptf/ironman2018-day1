@@ -66,6 +66,7 @@ $ 這個後面的是指令，請記得不要連 '$' 都打進去了
  * `Day 27`：[漫步在雲端：在 GCP 中建立 k8s 叢集](https://ithelp.ithome.com.tw/articles/10193961)
  * `Day 28`：[邁向 DevOps 之路 (1)](https://ithelp.ithome.com.tw/articles/10196285)
  * `Day 29`：[邁向 DevOps 之路 (2)](https://ithelp.ithome.com.tw/articles/10196286)
+ * `Day 30`：[鐵人達成：厚臉皮自己講](https://ithelp.ithome.com.tw/articles/10197352)
 
 
 時間寶貴，就讓我們開始好好欣賞一下 k8s 吧！
